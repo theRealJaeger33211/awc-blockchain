@@ -1,4 +1,4 @@
-# chia-blockchain
+# AntiWarCoin-blockchain
 
 ![Alt text](https://www.chia.net/img/chia_logo.svg)
 
